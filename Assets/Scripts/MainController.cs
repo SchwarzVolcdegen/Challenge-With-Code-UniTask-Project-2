@@ -25,7 +25,7 @@ public class MainController : MonoBehaviour
 
     async void ButtonClicked()
     {
-        //var result = await CancelDialogController.Instance.ShowAsync(curGameObj);
+        var result = await CancelDialogController.Instance.ShowAsync(curGameObj);
         //Debug.Log(result);
     }
     }

@@ -4,7 +4,7 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - cancelControlUI: {fileID: 7124924790559050841, guid: 912fb19666e9b734a8a8a4266748256b, type: 3}
+  - cancelControlUI: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

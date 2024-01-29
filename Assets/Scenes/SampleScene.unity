@@ -1673,7 +1673,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cancelButton: {fileID: 771852335}
-  cancelDialog: {fileID: 7038680792017165843, guid: 912fb19666e9b734a8a8a4266748256b, type: 3}
   curGameObj: {fileID: 1924526109}
 --- !u!1 &2114433822
 GameObject:
